@@ -37,10 +37,10 @@
         "SourceXmlFolder": "dotnet/xml",
         "OutputYamlFolder": "dotnet/api",
         "Flatten": true,
-        "id": "dotnet-template"
+        "id": "TestDotNetZhiliaXu"
       },
       "SplitTOC": [
-        "dotnet/api/dotnet-template/toc.yml"
+        "dotnet/api/TestDotNetZhiliaXu/toc.yml"
       ],
       "DiffFolder": [
         "dotnet/api"
